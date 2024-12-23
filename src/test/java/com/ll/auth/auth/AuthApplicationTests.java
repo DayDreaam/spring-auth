@@ -1,4 +1,4 @@
-package com.ll.auth;
+package com.ll.auth.auth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
